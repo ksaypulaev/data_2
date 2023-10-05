@@ -1,0 +1,29 @@
+{
+    "country_list": [
+        {
+            "id" : "0", 
+            "name" : "USSR", 
+            "population" : "400000000"
+        },
+        {
+            "id" : "1", 
+            "name" : "USA", 
+            "population" : "200000000"
+        },
+        {
+            "id" : "2", 
+            "name" : "France", 
+            "population" : "20000000"
+        },
+        {
+            "id" : "3", 
+            "name" : "Spain", 
+            "population" : "15000000"
+        },
+        {
+            "id" : "4", 
+            "name" : "Colombia", 
+            "population" : "2000000"
+        }
+    ]
+}
